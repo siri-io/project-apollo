@@ -1,0 +1,9 @@
+{
+    "name": "project-apollo",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "build": "bubblewrap build",
+      "start": "adb install app-release-signed.aab"
+    }
+}
